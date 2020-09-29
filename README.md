@@ -1,2 +1,2 @@
 # BallRun
-BallRun is and android arcade game
+BallRun is an android arcade game
